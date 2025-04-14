@@ -22,16 +22,17 @@
 
 ## যে চারটি লেখা লিখতে হবে।
  
- Bank Name : ACHLAN
+ (86)  Bank Name : ACHLAN
  
 
- Payment Reference No. চালান নং হবে
+ (87)  Payment Reference No. চালান নং হবে
  
 
- Payment Date- যত তারিখে করা হয় হয়েছে
+ (88)  Payment Date- যত তারিখে করা হয় হয়েছে
  
  
- Paid Amount: 5750 tK
+ (89) Paid Amount: 5750 tK
+ 
 
  # আবেদন কারির ফিলাপ
 
