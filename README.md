@@ -19,8 +19,8 @@
  (7) মোবাইল নং:- -------
 
 
-<!--[profile](./C.JPEF)-->
-<img src="C.JPEG" width="600"/>
+<!--[profile](./c.jpeg)-->
+<img src="c.jpeg" width="600"/>
 
 ## যে চারটি লেখা লিখতে হবে।
  
