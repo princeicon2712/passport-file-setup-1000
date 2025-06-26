@@ -1,5 +1,30 @@
 # passport-file-setup-1000
 
+## passport apply
+
+Type of Citizenship:-  BY BIRTH
+
+Profession:-  PRIVATE SERVICE
+
+31.email:- rejaulkarim2712@gmail.com
+
+43..Road/Block/Sector:- (x) লাগবে না
+
+50.. 43..Road/Block/Sector:- (x) লাগবে না
+55.. Father profession :- FARMER
+55.. mmother profession :- HOUSE WIFE
+
+## Emaegency Contact
+
+travelse code email:- JAMALM18@GMAIL.COM
+
+
+
+
+
+
+
+
 ## ডোকোমেন্ট সেট করে দিতে হবে আবেদন কারিকে
 
 (1) চালান ফরম
